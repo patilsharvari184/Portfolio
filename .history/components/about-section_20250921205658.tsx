@@ -7,7 +7,7 @@ import { useEffect, useRef, useState } from "react"
 import { ArrowRight } from "lucide-react"
 
 const stats = [
-  { number: "10+", label: "Projects Completed", link: "https://github.com/patilsharvari184" },
+  { number: "10+", label: "Projects Completed", link: "https://github.com/patil" },
   { number: "15+", label: "Technologies Mastered" },
   { number: "10+", label: "Certificates Earned", link: "https://www.linkedin.com/in/sharvari-patil-444537224/" },
 ]
