@@ -170,7 +170,7 @@ export default function HeroSection() {
                   <img
                     src="/sharvari_photo.jpg"
                     alt="Sharvari Patil"
-                    draggable={false}
+                    alt="My Image"
                     onContextMenu={(e) => e.preventDefault()}
                     className="w-full h-full object-cover"
                   />
